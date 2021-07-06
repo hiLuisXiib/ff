@@ -1,0 +1,138 @@
+@font-face {
+  font-family: 'how-to';
+  src:  url('fonts/how-to.eot?patey0');
+  src:  url('fonts/how-to.eot?patey0#iefix') format('embedded-opentype'),
+    url('fonts/how-to.ttf?patey0') format('truetype'),
+    url('fonts/how-to.woff?patey0') format('woff'),
+    url('fonts/how-to.svg?patey0#how-to') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'how-to' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a:before {
+  content: "\ec41";
+}
+.icon-b:before {
+  content: "\f413";
+}
+.icon-c .path1:before {
+  content: "\ea51";
+  color: rgb(0, 0, 0);
+}
+.icon-c .path2:before {
+  content: "\ea52";
+  margin-left: -5.7314453125em;
+  color: rgb(105, 54, 152);
+}
+.icon-c .path3:before {
+  content: "\ea53";
+  margin-left: -5.7314453125em;
+  color: rgb(80, 201, 135);
+}
+.icon-d:before {
+  content: "\f0b5";
+}
+.icon-e:before {
+  content: "\e900";
+  color: #ec268f;
+}
+.icon-f .path1:before {
+  content: "\e901";
+  color: rgb(233, 54, 56);
+}
+.icon-f .path2:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(0, 90, 171);
+}
+.icon-f .path3:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(250, 177, 22);
+}
+.icon-g .path1:before {
+  content: "\e904";
+  color: rgb(0, 88, 46);
+}
+.icon-g .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(32, 30, 30);
+}
+.icon-h:before {
+  content: "\e906";
+}
+.icon-i:before {
+  content: "\e907";
+  color: #d9202b;
+}
+.icon-j .path1:before {
+  content: "\e908";
+  color: rgb(253, 152, 0);
+}
+.icon-j .path2:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(204, 0, 1);
+}
+.icon-k:before {
+  content: "\ec5f";
+}
+.icon-l:before {
+  content: "\ea48";
+}
+.icon-m:before {
+  content: "\ea4b";
+}
+.icon-n:before {
+  content: "\ea5f";
+}
+.icon-flecha-atras:before {
+  content: "\f0a8";
+}
+.icon-flecha-siguiente:before {
+  content: "\f0a9";
+}
+.icon-lavarse-las-manos:before {
+  content: "\f0c1";
+}
+.icon-enjabonarse-las-manos:before {
+  content: "\f09c";
+}
+.icon-secarse-las-manos:before {
+  content: "\f45a";
+}
+.icon-touch_app:before {
+  content: "\f56b";
+}
+.icon-copiar:before {
+  content: "\f093";
+}
+.icon-guardar:before {
+  content: "\f0b2";
+}
+.icon-menu-puntos:before {
+  content: "\f3ac";
+}
+.icon-menu:before {
+  content: "\f3ab";
+}
+.icon-home:before {
+  content: "\f0b3";
+}
